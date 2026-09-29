@@ -4,11 +4,7 @@
 
 ### `CSE (Cybersecurity)` • `AI/ML` • `Research`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=CURIOUS+%E2%86%92+LEARN+%E2%86%92+INNOVATE;Exploring+Cybersecurity+%F0%9F%94%90;Building+with+AI%2FML+%F0%9F%A4%96;Researching+Emerging+Technologies+%F0%9F%94%AC" alt="Typing SVG" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Saharsha123&style=for-the-badge&color=00ff9c&label=PROFILE+VIEWS" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=CURIOUS+%E2%86%92+LEARN+%E2%86%92+INNOVATE;Exploring+Cybersecurity+%F0%9F%94%90;Building+with+AI%2FML+%F0%9F%A4%96;Researching+Emerging+Technologies+%F0%9F%94%AC" alt="Typing SVG" />
 
 </div>
 
@@ -17,26 +13,38 @@
 ## `> whoami`
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│  SAHARsha                                            │
-│  ─────────────────────────────────────────────────── │
-│  🎓 Computer Science Engineering                     │
-│  🔐 Cybersecurity                                    │
-│  🤖 Artificial Intelligence / Machine Learning       │
-│  🔬 Research & Innovation                            │
-│                                                      │
-│  > curious about technology                          │
-│  > learning continuously                             │
-│  > building practical solutions                     │
-└──────────────────────────────────────────────────────┘
+┌──[saharsha@github]─[~]
+└─$ whoami
+
+SAHARSHA
+
+┌──[saharsha@github]─[~]
+└─$ cat profile.txt
+
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║  🎓  COMPUTER SCIENCE ENGINEERING                    ║
+║  🔐  CYBERSECURITY                                   ║
+║  🤖  ARTIFICIAL INTELLIGENCE / MACHINE LEARNING      ║
+║  🔬  RESEARCH & INNOVATION                           ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+
+┌──[saharsha@github]─[~]
+└─$ ./mission.sh
+
+[+] Exploring security
+[+] Building with AI/ML
+[+] Learning through research
+[+] Turning curiosity into innovation
+
+┌──[saharsha@github]─[~]
+└─$ echo $MOTTO
+
+CURIOUS → LEARN → INNOVATE
 ```
 
 I'm a Computer Science Engineering student passionate about **Cybersecurity, AI/ML, and Research**, with a focus on exploring emerging technologies and turning ideas into practical solutions.
-
-> 🔐 **Exploring security**
-> 🤖 **Building with AI/ML**
-> 🔬 **Learning through research**
-> 💡 **Turning curiosity into innovation**
 
 ---
 
@@ -94,7 +102,7 @@ Research focused on developing a secure and decentralized framework for protecti
 
 ### Let's build something meaningful. 🚀
 
-<a href="www.linkedin.com/in/saharsha-ravikumar">
+<a href="https://www.linkedin.com/in/saharsha-ravikumar">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C"/>
 </a>
 
